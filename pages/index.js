@@ -9,22 +9,22 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <h2>My Impression of the first month as a CPE 3rd year student.</h2>
-        <p>
-          I'm expecting to improve myself in this school year. 
-          I know this is gonna be challenging year for me than last year.
-          I'm looking forward too to our professors to teach us very well.
-          I'm expecting to have a good schedule this school year.
-          I'm expecting to face more challenging activities.
-        </p>
-        <p>
-          I know now How to Update my Website.
-        </p>
-        <p>
-          (This is a sample website - you’ll be building a site like this on{' '}
+        <h2>10 Things That Require Zero Talent</h2>
+        <p>1. Being On Time</p>
+        <p>2. Making An Effort</p>
+        <p>3. Being High Energy</p>
+        <p>4. Having A Positive Attitude</p>
+        <p>5. Being Passionate</p>
+        <p>6. Using Good Body Language</p>
+        <p>7. Being Coachable</p>
+        <p>8. Doing A Little Extra</p>
+        <p>9. Being Prepared</p>
+        <p>10. Having A Strong Work Ethic</p>
+        
+        <p>(This is a sample website - you’ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
         </p>
-      </section>
-    </Layout>
+        </section>
+        </Layout>
   );
 }
